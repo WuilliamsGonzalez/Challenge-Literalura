@@ -1,4 +1,5 @@
 # Desafío Literalura
+![badge literalura](https://github.com/user-attachments/assets/45790814-4e98-42c2-af57-d178a2a95d53)
 
 Este es un desafío de Java Spring Boot que implementa una aplicación de consola para gestionar libros y autores en una base de datos PostgreSQL.
 
