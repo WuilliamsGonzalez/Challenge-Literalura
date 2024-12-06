@@ -50,7 +50,7 @@ Una vez que la aplicación esté en ejecución, se mostrará un menú de opcione
     5- Listar libros por idioma
     0- Salir
 
-Elija la opción a través de su número:
+- Elija la opción a través de su número:
     Buscar Libro por Título
 1
 Ingrese el nombre del libro que desea buscar
