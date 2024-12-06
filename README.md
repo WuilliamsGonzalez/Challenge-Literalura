@@ -69,7 +69,7 @@ Requisitos Previos
 
 
 Propiedad intelectual de Alura Latam
-Repositorio hecho por Wuilliams González
+| Repositorio hecho por Wuilliams González
 
 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
